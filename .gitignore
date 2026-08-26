@@ -1,0 +1,28 @@
+# Dependencies and build output
+node_modules/
+.next/
+out/
+coverage/
+
+# Environment and secrets (keep the public template)
+.env*
+!.env.example
+
+# Test and browser artifacts
+test-results/
+playwright-report/
+blob-report/
+reports/
+videos/
+
+# Editors and operating systems
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Logs and caches
+*.log
+.eslintcache
+*.tsbuildinfo
