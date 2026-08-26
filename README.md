@@ -81,6 +81,7 @@ RentalRadar public edition is an early reference build intended for demos, desig
 
 ## Project documentation
 
+- [Provenance and public/private boundary](PROVENANCE.md)
 - [Architecture](docs/ARCHITECTURE.md)
 - [Security](docs/SECURITY.md)
 - [Maturity](docs/MATURITY.md)
